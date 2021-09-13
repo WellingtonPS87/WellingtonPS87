@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WellingtonPS87
 - 👀 I’m interested in exchange acknowledgement about coding
-- 🌱 I’m currently learning C, GOLANG, JAVA, Python and VBA.
+- 🌱 I’m currently learning C, GOLANG and Python.
 - 💞️ I’m looking to collaborate on coding or project management subjects
 - 📫 How to reach me by e-mail please: wellingtonps@gmail.com
 
